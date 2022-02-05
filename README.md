@@ -6,3 +6,4 @@ DB 설정
 아이디 : LAUNDRY
 비밀번호 : LAUNDRY
 
+http://localhost:8888/laundry/
